@@ -10,5 +10,6 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="jsoup-1.9.2" level="application" />
     <orderEntry type="library" name="mysql-connector" level="application" />
+    <orderEntry type="library" name="retrofit-2.4.0" level="application" />
   </component>
 </module>
