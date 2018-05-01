@@ -15,6 +15,7 @@ fun main(args:Array<String>)
         val fastive=tr.select("td")[2].text()
         println("$date $day $fastive")
         println(tr.select("td")[2].select("div").attr("class"))
+        println(tr)
         println("\n..........................................................\n")
 
 
